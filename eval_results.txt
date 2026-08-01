@@ -1,0 +1,19 @@
+Threshold   Overall Accuracy    Answerable Acc.     Guardrail Acc. 
+-----------------------------------------------------------------
+1.0         33%                 14%                 100%           
+1.3         44%                 29%                 100%           
+1.5         78%                 71%                 100%           
+1.7         67%                 86%                 0%             
+1.9         78%                 100%                0%             
+
+Detailed results at threshold=1.7 (our current default):
+
+[PASS] What were Apple's total net sales in fiscal year 2024?
+[PASS] How many full-time employees does Apple have?
+[PASS] What is Apple's stock ticker symbol?
+[FAIL] What legal issues is Apple facing?
+[PASS] What was Apple's effective tax rate in 2024?
+[PASS] How much cash did Apple have as of September 2024?
+[PASS] What was Apple's gross margin percentage in 2024?
+[FAIL] What is the best recipe for chocolate chip cookies?
+[FAIL] Who won the 2024 World Cup?

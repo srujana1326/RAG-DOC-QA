@@ -1,0 +1,11 @@
+# Auto-generated files -- don't commit these, they get rebuilt by running the scripts
+data/vectordb/
+data/vectordb_openai/
+data/processed/embeddings.npy
+data/processed/embeddings_openai.npy
+data/processed/vectorizer.pkl
+__pycache__/
+*.pyc
+
+# Never commit your API key
+.env

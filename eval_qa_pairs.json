@@ -1,0 +1,47 @@
+[
+  {
+    "question": "What were Apple's total net sales in fiscal year 2024?",
+    "expected_keyword": "$391,035",
+    "should_find_answer": true
+  },
+  {
+    "question": "How many full-time employees does Apple have?",
+    "expected_keyword": "164,000",
+    "should_find_answer": true
+  },
+  {
+    "question": "What is Apple's stock ticker symbol?",
+    "expected_keyword": "AAPL",
+    "should_find_answer": true
+  },
+  {
+    "question": "What legal issues is Apple facing?",
+    "expected_keyword": "Legal Proceedings",
+    "should_find_answer": true
+  },
+  {
+    "question": "What was Apple's effective tax rate in 2024?",
+    "expected_keyword": "24.1%",
+    "should_find_answer": true
+  },
+  {
+    "question": "How much cash did Apple have as of September 2024?",
+    "expected_keyword": "$140.8 billion",
+    "should_find_answer": true
+  },
+  {
+    "question": "What was Apple's gross margin percentage in 2024?",
+    "expected_keyword": "46.2%",
+    "should_find_answer": true
+  },
+  {
+    "question": "What is the best recipe for chocolate chip cookies?",
+    "expected_keyword": null,
+    "should_find_answer": false
+  },
+  {
+    "question": "Who won the 2024 World Cup?",
+    "expected_keyword": null,
+    "should_find_answer": false
+  }
+]

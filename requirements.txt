@@ -1,0 +1,6 @@
+streamlit
+chromadb
+scikit-learn
+numpy
+openai
+pypdf
